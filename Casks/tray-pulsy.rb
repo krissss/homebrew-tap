@@ -1,8 +1,8 @@
 cask "tray-pulsy" do
-  version "1.3.1"
-  sha256 "0cde646aecf2890ba7007f11852e7f97ecf21d3f243ffd96cd4e70376ff1052c"
+  version "1.4.0"
+  sha256 "1a5b69728deff4231fc4ad9b597a7b474da680acb48b13d443ae957c9d9530c1"
 
-  url "https://github.com/krissss/tray-pulsy/releases/download/v1.3.1/TrayPulsy-v1.3.1.dmg"
+  url "https://github.com/krissss/tray-pulsy/releases/download/v1.4.0/TrayPulsy-v1.4.0.dmg"
   name "TrayPulsy"
   desc "Lightweight macOS menu bar app with animated system monitor"
   homepage "https://github.com/krissss/tray-pulsy"
