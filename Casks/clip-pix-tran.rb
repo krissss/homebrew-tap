@@ -1,8 +1,8 @@
 cask "clip-pix-tran" do
-  version "0.5.0"
-  sha256 "c8bfafe64576d7d6878c8b305dcbcff987744b1e35e57681dbf0c64c16d79d50"
+  version "0.6.0"
+  sha256 "e5807135654866fd8623fc1a8beb342671a04858718fb67b4c438f7aa08f5771"
 
-  url "https://github.com/krissss/clip-pix-tran/releases/download/v0.5.0/ClipPixTran-v0.5.0.dmg"
+  url "https://github.com/krissss/clip-pix-tran/releases/download/v0.6.0/ClipPixTran-v0.6.0.dmg"
   name "ClipPixTran"
   desc "macOS clipboard, screenshot, and translation utility"
   homepage "https://github.com/krissss/clip-pix-tran"
